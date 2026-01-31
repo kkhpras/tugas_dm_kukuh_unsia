@@ -1,1 +1,1 @@
-Pengolahan data dan modeling menggunakan ALtair AI Studio
+Pengolahan data dan modeling menggunakan Altair AI Studio
